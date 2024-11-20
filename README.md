@@ -12,4 +12,4 @@ Good luck!
 
 ## How to run
 
-1. In the command line type - `python task.py`
+1. In the command line type - `python main.py`
